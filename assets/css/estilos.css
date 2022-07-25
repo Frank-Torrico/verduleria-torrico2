@@ -1,0 +1,16 @@
+.form{
+    max-width: 800px;
+    margin: auto;
+    padding:  0px 30px;
+}.imgnav{
+    height: 80px;
+}
+.carousel-inner{
+    max-height: 35rem;
+}
+.colortitulo{
+    color: rgb(234, 196, 27);
+}
+.img-mercado{
+    max-height: 300px;
+}
